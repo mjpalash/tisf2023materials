@@ -1,0 +1,11 @@
+* URLs of the engineering blogs we use for case studies. 
+1. [Netflix Billing Migration to AWS](https://netflixtechblog.com/netflix-billing-migration-to-aws-451fba085a4)
+2. [Netflix’s Viewing Data](https://netflixtechblog.com/netflixs-viewing-data-how-we-know-where-you-are-in-house-of-cards-608dd61077da)
+3. [System Architectures for Personalization and Recommendation](https://netflixtechblog.com/system-architectures-for-personalization-and-recommendation-e081aa94b5d8)
+4. [A Brief History of Scaling LinkedIn](https://engineering.linkedin.com/architecture/brief-history-scaling-linkedin)
+5. [Unified Payments Data Read at Airbnb](https://medium.com/airbnb-engineering/unified-payments-data-read-at-airbnb-e613e7af1a39)
+6. [How we built Twitter’s highly reliable ads pacing service](https://blog.x.com/engineering/en_us/topics/infrastructure/2021/how-we-built-twitter-s-highly-reliable-ads-pacing-service)
+7. [Processing billions of events in real time at Twitter](https://blog.x.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-)
+8. [Scribe: Transporting petabytes per hour via a distributed, buffered queueing system](https://engineering.fb.com/2019/10/07/core-infra/scribe/)
+9. [Turbine: Facebook’s Service Management Platform for Stream Processing](https://research.facebook.com/publications/turbine-facebooks-service-management-platform-for-stream-processing/)
+10. [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
